@@ -4,6 +4,7 @@ This is a lung disease diagnosis program implemented using Keras and Convolution
 
 ## Dataset
 The dataset used to train the model contains chest X-ray images of patients with COVID-19, Pneumonia, and normal cases. The images are divided into two categories - disease (COVID-19 and Pneumonia) and normal cases. This dataset is utilized to train the model to accurately classify chest X-ray images into these categories.
+link to the dataset : https://www.kaggle.com/datasets/prashant268/chest-xray-covid19-pneumonia
 
 ## Files
 
