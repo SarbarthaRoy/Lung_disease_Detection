@@ -1,4 +1,4 @@
-# Lung Disease Diagnosis Program using Keras and CNN
+# Lung Disease Diagnosis from X-Ray images built using Keras and CNN
 
 This is a lung disease diagnosis program implemented using Keras and Convolutional Neural Networks (CNN) model. The program is designed to classify chest X-ray images into three categories: COVID-19, Pneumonia, and Normal.
 
